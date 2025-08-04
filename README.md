@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ✅ Credit Card Approval Prediction
 
 This project predicts credit card approval using a logistic regression model trained on a structured dataset. It includes exploratory data analysis (EDA), preprocessing, model training, and a simple Streamlit app interface.
@@ -71,6 +70,4 @@ streamlit run app/app.py
 
 ## 📄 License
 MIT License.
-=======
-# credit_card_approval
->>>>>>> 68a5bb2e139d5facfa24d32292e86b4976be3b7f
+
