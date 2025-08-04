@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+
+# Jupyter Notebook output
+*.nbconvert.ipynb
+
+# Model files
+*.h5
+*.pt
+*.pkl
+*.joblib
+
+# App uploads/cache
+uploads/
+temp/
